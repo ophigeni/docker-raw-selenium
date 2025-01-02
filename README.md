@@ -20,6 +20,8 @@ git clone https://github.com/ophigeni/selenium-ophigeni
 
 # Install-Selenium-and-Ect
 
+apt install wget
+
 wget -nc https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 
 apt update
