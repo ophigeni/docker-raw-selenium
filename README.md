@@ -11,6 +11,8 @@ cd home
 
 apt-get update
 
+apt install nano
+
 apt-get install git -y
 
 git clone https://github.com/ophigeni/selenium-ophigeni
@@ -47,6 +49,8 @@ bash 1.txt
 
 
 # Tips
+
+edit file text with: nano 1.py
 
 quit from ENV: deactivate
 
