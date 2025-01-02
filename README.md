@@ -15,7 +15,7 @@ apt install nano -y
 
 apt-get install git -y
 
-git clone https://github.com/ophigeni/selenium-ophigeni
+git clone https://github.com/ophigeni/docker-raw-selenium
 
 
 # Install-Selenium-and-Ect
