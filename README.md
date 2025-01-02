@@ -5,6 +5,8 @@ docker run --rm -ti ophigeni/raw:xfce
 
 # Install-Git
 
+cd home
+
 apt-get update
 
 apt-get install git -y
