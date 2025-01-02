@@ -11,7 +11,7 @@ cd home
 
 apt-get update
 
-apt install nano
+apt install nano -y
 
 apt-get install git -y
 
