@@ -35,11 +35,13 @@ pip install selenium webdriver-manager
 
 # Copy File
 
-cp /home/selenium-ophigeni/1.py  1.txt  2.py  2.txt  3.py  4.py  5.py /home/tests/
-
 cp /home/selenium-ophigeni/*.txt /home/tests/
 
 cp /home/selenium-ophigeni/*.py /home/tests/
+
+# Execute
+
+bash 1.txt
 
 
 # Tips
