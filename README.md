@@ -41,9 +41,9 @@ pip install selenium webdriver-manager
 
 # Copy File
 
-cp /home/selenium-ophigeni/*.txt /home/tests/
+cp /home/docker-raw-selenium/*.txt /home/tests/
 
-cp /home/selenium-ophigeni/*.py /home/tests/
+cp /home/docker-raw-selenium/*.py /home/tests/
 
 # Execute
 
